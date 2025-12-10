@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/episode-2/"}
 ---
 
-## Episode 2
+# Episode 2
 
 Participants:
 - [[Character Profile -- Ace\|Ace]]

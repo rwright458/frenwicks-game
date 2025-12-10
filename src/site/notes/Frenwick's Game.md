@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/frenwick-s-game/","tags":["gardenEntry"]}
 ---
 
-## **Overview:**
+# **Overview:**
 
 The notorious trickster Frenwick was a menace. Wanted in all kingdoms for thievery and debauchery, he slowly began to grow bored of his own tricks. Despite being well respected by the God of Trickery, Frenwick challenged him to a simple game. The rules and nature of this game remain unknown, but Frenwick won. And with victory, came the powers of a god. 
 
