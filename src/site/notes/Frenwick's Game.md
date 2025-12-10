@@ -17,7 +17,7 @@ This is where you come in. Whether you're in it for yourself, you are part of a 
 | 8/13/25  | [[Episode 1\|Episode 1]] | 3           |
 | 8/27/25  | [[Episode 2\|Episode 2]] | 4           |
 | 9/10/25  | [[Episode 3\|Episode 3]] | 4           |
-| 9/24/25  |               | 5           |
+| 9/24/25  | Episode 4     | 5           |
 | 10/8/25  |               | 5           |
 | 10/22/25 |               | 5           |
 | 11/19/25 |               | 6           |
