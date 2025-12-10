@@ -21,7 +21,8 @@ This is where you come in. Whether you're in it for yourself, you are part of a 
 | 10/8/25  |               | 5           |
 | 10/22/25 |               | 5           |
 | 11/19/25 |               | 6           |
-|          |               |             |
+
+
 **Quick Links**
  - [[Magik Eyetems Booth\|Magik Eyetems Booth]]
  - [[Frenwick's Tears\|Frenwick's Tears]]
