@@ -12,15 +12,15 @@ Frenwick burned the location of his palace into every map that even had a portio
 
 This is where you come in. Whether you're in it for yourself, you are part of a kingdom's army special forces, a prisoner forced in to earn your freedom, or an unfortunate soul who happened to come across the palace, you are now a part of the trickster god's game. Will you survive by yourself? Maybe make new friends with allies you didn't know you could make? Will you fall to the same greed that led many others to madness? Or will you be "different," the one who makes it through the challenges set in place and earn your fill. Walk away with riches, knowledge, a love... or even godhood?
 
-| Date     | Session Notes | Party Level |
-| -------- | ------------- | ----------- |
-| 8/13/25  | [[Episode 1\|Episode 1]] | 3           |
-| 8/27/25  | [[Episode 2\|Episode 2]] | 4           |
-| 9/10/25  | [[Episode 3\|Episode 3]] | 4           |
-| 9/24/25  | Episode 4     | 5           |
-| 10/8/25  |               | 5           |
-| 10/22/25 |               | 5           |
-| 11/19/25 |               | 6           |
+| Date     | Session Notes         | Party Level |
+| -------- | --------------------- | ----------- |
+| 8/13/25  | [[Episode 1\|Episode 1]]         | 3           |
+| 8/27/25  | [[Episode 2\|Episode 2]]         | 4           |
+| 9/10/25  | [[Episode 3, Part 1\|Episode 3, Part 1]] | 4           |
+| 9/24/25  | Episode 3, Part 2     | 5           |
+| 10/8/25  |                       | 5           |
+| 10/22/25 |                       | 5           |
+| 11/19/25 |                       | 6           |
 
 
 **Quick Links**
