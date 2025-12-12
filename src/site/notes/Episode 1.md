@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/episode-1/"}
 ---
 
-# Episode 1
-
 Participants:
 - [[Character Profile -- Ace\|Ace]]
 - [[Character Profile -- Ash\|Ash]]
