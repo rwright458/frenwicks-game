@@ -2,12 +2,14 @@
 {"dg-publish":true,"permalink":"/episode-1/"}
 ---
 
-## Participants:
+# **Episode 1**
+
+### **Participants:**
 - [[Character Profile -- Ace\|Ace]]
 - [[Character Profile -- Ash\|Ash]]
 - [[Character Profile -- Dante\|Dante]]
 
-## Summary of Events
+### **Summary of Events**
 The party enters Frenwick's Mansion to participate in Frenwick's Game.
 
 Frenwick's Game is an out of place mansion, with clouds above it spelling out "Frenwick's Game." When the party enters, the front door disappears behind them. Inside the mansion, the party steps into the lobby area for the game. It appears to be set up as a living room of sorts, with comfortable couches and furniture to rest on.
@@ -56,7 +58,7 @@ Ace notices a shiny thing on the pommel of the skeleton's mace. Ace picks it up 
 
 After the party gets teleported back to the lobby, they notice a sparkling light in a vaguely humanoid shape standing behind a booth with a sign that says "Magik Eyetems."
 
-## Session rewards:
+### **Session rewards:**
 - 1 round Frenwick's Tear (Ace)
 - 1 2-point Frenwick's Tear (Ace)
 - 1000 gold each

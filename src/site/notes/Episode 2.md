@@ -2,11 +2,14 @@
 {"dg-publish":true,"permalink":"/episode-2/"}
 ---
 
-Participants:
+# **Episode 2**
+
+### **Participants:**
 - [[Character Profile -- Ace\|Ace]]
 - [[Character Profile -- Ash\|Ash]]
 - [[Character Profile -- Dante\|Dante]]
 
+### **Summary of Events**
 The party gathers in the lobby to await the beginning of their next adventure. While waiting, Ace plays an encouraging song known as The Duck Song to give heroic inspiration to Ash and Dante. Eventually, a glowing staircase appears. The party climbs them.
 
 They end up facing a giant stone wizard tower. It seems to stretch on forever, and the top is not visible from the ground. The tower sits on a stone slab with sediment under it. It is also inside the eye of a bad storm, characterized by frequent lightning and dense, dark clouds. However, no one can feel any thunder, nor hear any wind. Every so often, floating balls of light swirl around the tower. Despite the stormy atmosphere, everything is lit up as if my sunlight.  The staircase that the party used to approach the tower extends about 10 feet back before ending in nothingness. 
@@ -61,6 +64,6 @@ Once the party gets down to the ground floor, the party calls out to Frenwick to
 
 Frenwick is disappointed that the party didn't actually fight the lich, and tries to give everyone depression. Ace and Dante succeed on the save, but Ash fails and has the effect of the Bane spell. Frenwick says he'll lift the curse if Ace gives him the three pointed tear. Ace refuses, and Ash will remain baned for the duration of the next episode.
 
-Session Rewards:
+### **Session Rewards:**
 - 2000 gold each
 - 3 pointed [[Frenwick's Tears\|Frenwick's Tear]] (Ace)

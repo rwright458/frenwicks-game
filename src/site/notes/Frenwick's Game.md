@@ -12,6 +12,8 @@ Frenwick burned the location of his palace into every map that even had a portio
 
 This is where you come in. Whether you're in it for yourself, you are part of a kingdom's army special forces, a prisoner forced in to earn your freedom, or an unfortunate soul who happened to come across the palace, you are now a part of the trickster god's game. Will you survive by yourself? Maybe make new friends with allies you didn't know you could make? Will you fall to the same greed that led many others to madness? Or will you be "different," the one who makes it through the challenges set in place and earn your fill. Walk away with riches, knowledge, a love... or even godhood?
 
+### **Table of Contents**
+
 | Date     | Session Notes         | Party Level |
 | -------- | --------------------- | ----------- |
 | 8/13/25  | [[Episode 1\|Episode 1]]         | 3           |
@@ -23,7 +25,7 @@ This is where you come in. Whether you're in it for yourself, you are part of a 
 | 11/19/25 |                       | 6           |
 
 
-**Quick Links**
+### **Quick Links**
  - [[Magik Eyetems Booth\|Magik Eyetems Booth]]
  - [[Frenwick's Tears\|Frenwick's Tears]]
  - Bastions
