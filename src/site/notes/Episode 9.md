@@ -171,6 +171,6 @@ Ace: "Okay, we'll talk to you back at the mansion. But the moonlight is fading a
 
 Eldrune, to hurry the process along, kicks one of the tears. Ace hurries to pick them all up. The party then hikes toward the moonbeam. After about an hour, they reach the location where the moonbeam meets the sand. By the time they get there, it has been reduced to a thin sliver. 
 
-The party steps into the light and gets teleported back to the lobby area. When they arrive, they notice that they don't feel the presence of Frenwick like they are accustomed to. Another noticeable change is that the lobby has a front door. Bridgitte opens the door to find that it opens out into the meadow that the party arrived to the mansion from. Bridgitte closes the door for now. 
+The party steps into the light and gets teleported back to the lobby area. When they arrive, they notice that they don't feel the presence of Frenwick like they are accustomed to. Another noticeable change is that the lobby has a front door. Bridgitte opens the door to find that it opens out into the meadow that the party arrived to the mansion from. Bridgitte closes the door for now. The [[Magik Eyetems Booth\|Magik Eyetems Booth]] has no one attending it and appears to be closed for the first time since it appeared to the party.
 
 Ace immediately upon arriving back to the mansion begins looking for more [[Frenwick's Tears\|Frenwick's Tears]].
