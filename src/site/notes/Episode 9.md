@@ -7,7 +7,7 @@
 ### **Participants**
 - [[Character Profile -- Ace\|Ace]]
 - [[Character Profile -- Ash\|Ash]]
-- [[Character Profile -- Bridgitte\|Bridgitte]]
+- [[Character Profile -- Bridgette\|Bridgitte]]
 - [[Character Profile -- Eldrune\|Eldrune]]
 
 ### **Summary of Events**
