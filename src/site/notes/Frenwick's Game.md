@@ -20,9 +20,12 @@ This is where you come in. Whether you're in it for yourself, you are part of a 
 | 8/27/25  | [[Episode 2\|Episode 2]]         | 4           |
 | 9/10/25  | [[Episode 3, Part 1\|Episode 3, Part 1]] | 4           |
 | 9/24/25  | Episode 3, Part 2     | 5           |
-| 10/8/25  |                       | 5           |
-| 10/22/25 |                       | 5           |
-| 11/19/25 |                       | 6           |
+| 10/8/25  | Episode 4             | 5           |
+| 10/22/25 | Episode 5             | 5           |
+| 11/19/25 | Episode 6             | 6           |
+| 12/3/25  | Episode 7             | 6           |
+| 12/17/25 | Episode 8             | 6           |
+| 12/31/25 | [[Episode 9\|Episode 9]]         | 7           |
 
 
 ### **Quick Links**
