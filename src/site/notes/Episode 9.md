@@ -33,49 +33,49 @@ During the battle, two basilisks erupt from the sand. They seem to be angry that
 
 As the battle ends, the desert begins to brighten. Clouds roll away from the sky and a huge full moon becomes visible and lightens the area. Ace, having dropped their shield in the fight to cast magic, goes to retrieve it. Ash and Bridgette try to harvest scales and spikes from the corpses of the basilisks. They didn't extract the materials perfectly, and most of the spikes have cosmetic damages. However, Bridgette remains optimistic that she will still be able to use them to make some super sick armor.
 
-The party takes a couple of minutes to patch themselves up and heal. After everyone is satisfied, the party notices that some sparkles appear to descend from the moon down onto the party. Everyone receives 35 temporary HP. However, as the sparkles descend, the moon seems to lose its brightness and turn from a bright white light to a dim red color, almost like a bloodmoon. The desert is now washed in a sickly red light. Despite the dim lighting, the party can see a figure floating down from the sky. The figure descending from the sky is identified as Aro. Ace also notices 4 large snake-like creatures approaching the party from the cardinal directions. 
+The party takes a couple of minutes to patch themselves up and heal. After everyone is satisfied, the party notices that some sparkles appear to descend from the moon down onto the party. Everyone receives 35 temporary HP. However, as the sparkles descend, the moon seems to lose its brightness and turn from a bright white light to a dim red color, almost like a bloodmoon. The desert is now washed in a sickly red light. Despite the dim lighting, the party can see a figure floating down from the sky. The figure descending from the sky is identified as [[Character Profile -- Aro\|Aro]]. Ace also notices 4 large snake-like creatures approaching the party from the cardinal directions. 
 
 ![lamia.jpg|400](/img/user/Images/lamia.jpg)
 
-As Aro floats down and gets within hearing range of the party, he says, "I hope that last boon from Frenwick was helpful to you, because you won't be getting any more." 
+As [[Character Profile -- Aro\|Aro]] floats down and gets within hearing range of the party, he says, "I hope that last boon from Frenwick was helpful to you, because you won't be getting any more." 
 
-Ace tries to talk to Aro, asking, "What do you mean we won't be getting any more?" 
+Ace tries to talk to him, asking, "What do you mean we won't be getting any more?" 
 
-"You mean you can't feel Frenwick's power waning?" says Aro.
+"You mean you can't feel Frenwick's power waning?" says [[Character Profile -- Aro\|Aro]].
 
 "He doesn't really communicate with us like that, he's not a constant presence in the back of our minds because we aren't his slaves,"  replies Ace.
 
 "Unlike you!" interjects Ash.
 
-Aro says, "If only you knew..." with a menacing grin. 
+[[Character Profile -- Aro\|Aro]] says, "If only you knew..." with a menacing grin. 
 
 "Well we don't, so would you care to enlighten us?" inquires Ace.
 
-Aro grimaces and says, "You think I'm the kind of villain to monologue?"
+[[Character Profile -- Aro\|Aro]] grimaces and says, "You think I'm the kind of villain to monologue?"
 
 Ace responds with, "...yes?"
 
-Aro simply chuckles darkly and begins the battle by attacking Ash. Ace manages to mitigate the effects of the attack using Cutting Words, shouting "Get away from my friend!" Aro responds, "The friend that you've abandoned many times?" 
+[[Character Profile -- Aro\|Aro]] simply chuckles darkly and begins the battle by attacking Ash. Ace manages to mitigate the effects of the attack using Cutting Words, shouting "Get away from my friend!" [[Character Profile -- Aro\|Aro]] responds, "The friend that you've abandoned many times?" 
 
 "What would you know of friendship, asshole?" retorts Ace.
 
-The four lamia also enter the fray, managing to charm Bridgette. To Bridgette, the lamia that charmed her now looks like her ally [[Character Profile -- Will\|Will]]. Ash, driven primarily by rage and hate for Aro, launches a psychic lance at him, shouting, "Aro you absolute piece of shit, catch this!" Unfortunately, Aro somehow has acquired a lot of power, and uses a legendary resistance to mitigate the incapacitating effects of the spell, as well as half the damage.
+The four lamia also enter the fray, managing to charm Bridgette. To Bridgette, the lamia that charmed her now looks like her ally [[Character Profile -- Will\|Will]]. Ash, driven primarily by rage and hate for [[Character Profile -- Aro\|Aro]], launches a psychic lance at him, shouting, "Aro you absolute piece of shit, catch this!" Unfortunately, [[Character Profile -- Aro\|Aro]] somehow has acquired a lot of power, and uses a legendary resistance to mitigate the incapacitating effects of the spell, as well as half the damage.
 
-Aro then decides to attack Ace, and in a single turn Ace goes down. Ash ends up charmed by the lamia as well, who enact their geas feature. Luckily, the lamia forgot to issue a command to Ash initially. To Ash, the lamia that charmed him now also looks like an old ally, Fiorella. Ash, now "recognizing" a friend, telepathically communicates to the lamia that they plan to fireball Aro and to get out of the way. The lamia all jump back to avoid the blast.
+[[Character Profile -- Aro\|Aro]] then decides to attack Ace, and in a single turn Ace goes down. Ash ends up charmed by the lamia as well, who enact their geas feature. Luckily, the lamia forgot to issue a command to Ash initially. To Ash, the lamia that charmed him now also looks like an old ally, Fiorella. Ash, now "recognizing" a friend, telepathically communicates to the lamia that they plan to fireball [[Character Profile -- Aro\|Aro]] and to get out of the way. The lamia all jump back to avoid the blast.
 
-Ash uses their 4-pointed [[Frenwick's Tears\|Frenwick's Tear]] to cast Fireball on Aro. After this, Aro moves to go stand over Ace, who is still down. Aro puts his longsword at Ace's throat and commands the group to stand down. Ash hesitates, then grudgingly agrees. Aro forces Ash to drop his spellcasting focus to the ground. 
+Ash uses their 4-pointed [[Frenwick's Tears\|Frenwick's Tear]] to cast Fireball on [[Character Profile -- Aro\|Aro]]. After this, [[Character Profile -- Aro\|Aro]] moves to go stand over Ace, who is still down. [[Character Profile -- Aro\|Aro]] puts his longsword at Ace's throat and commands the group to stand down. Ash hesitates, then grudgingly agrees. [[Character Profile -- Aro\|Aro]] forces Ash to drop his spellcasting focus to the ground. 
 
-Aro then turns to Bridgette and Eldrune. Bridgette initially refuses to drop her weapon, causing Aro to dig his sword into Ace's neck, drawing a little blood. Ash screams at Aro, "What did they ever do to you?" to which Aro responds, "Does it matter?"
+[[Character Profile -- Aro\|Aro]] then turns to Bridgette and Eldrune. Bridgette initially refuses to drop her weapon, causing [[Character Profile -- Aro\|Aro]] to dig his sword into Ace's neck, drawing a little blood. Ash screams at [[Character Profile -- Aro\|Aro]], "What did they ever do to you?" to which [[Character Profile -- Aro\|Aro]] responds, "Does it matter?"
 
-Bridgette taunts Aro, saying he's afraid of a little healer. Aro is furious, and moves to attack her, doing quite a bit of damage and banishing her using Banishing Smite. During this time, Eldrune stabilizes Ace, but they can't be healed due to the effects of Aro's magic sword (a Longsword of Wounding).
+Bridgette taunts [[Character Profile -- Aro\|Aro]], saying he's afraid of a little healer. [[Character Profile -- Aro\|Aro]] is furious, and moves to attack her, doing quite a bit of damage and banishing her using Banishing Smite. During this time, Eldrune stabilizes Ace, but they can't be healed due to the effects of [[Character Profile -- Aro\|Aro]]'s magic sword (a Longsword of Wounding).
 
-Ash flies over to Ace and casts Death Armor on them to help in case Aro decides to stab Ace again. Aro, having dealt with Bridgette, throws his longsword up in the air and it vanishes in a puff of smoke. He approaches Ash and Ace. When he stands in front of them, he asks Ash, "Your life, or theirs?" while gesturing to Ace. Ash, without hesitating, says, "mine." Aro grins menacingly, grabs Ash by the throat, and they both disappear in a puff of smoke.
+Ash flies over to Ace and casts Death Armor on them to help in case [[Character Profile -- Aro\|Aro]] decides to stab Ace again. [[Character Profile -- Aro\|Aro]], having dealt with Bridgette, throws his longsword up in the air and it vanishes in a puff of smoke. He approaches Ash and Ace. When he stands in front of them, he asks Ash, "Your life, or theirs?" while gesturing to Ace. Ash, without hesitating, says, "mine." [[Character Profile -- Aro\|Aro]] grins menacingly, grabs Ash by the throat, and they both disappear in a puff of smoke.
 
 As they disappear, Bridgette reappears from banishment purgatory. Eldrune explains to her what happened while she was gone. Bridgette, after hearing that Ash sacrifices himself for Ace, asks, "Were they like, together?" Eldrune says she isn't really sure, but that they should probably wake up Ace.
 
 Bridgette heals Ace with a healing potion. As they start to regain consciousness, Bridgette asks, "Are you and Ash a thing? An item?" Eldrune exclaims, "Bridgette! Not the time." Ace groggily responds, "...what?" 
 
-Ace sits up and looks around. After a beat they ask, "Where's Ash?" After they learn from Eldrune that Aro kidnapped them and that Ash sacrificed himself, Ace begins to panic.  They stand up and yell toward the sky, "Frenwick, get your ass over here!" When nothing happens after a minute, they try again, saying, "Frenwick, I'm not interested in your fucking games at the moment! Get over here now, there's a situation!" Again, nothing happens, and Bridgette says, "I don't think he's gonna listen, he's not here anymore."
+Ace sits up and looks around. After a beat they ask, "Where's Ash?" After they learn from Eldrune that [[Character Profile -- Aro\|Aro]] kidnapped them and that Ash sacrificed himself, Ace begins to panic.  They stand up and yell toward the sky, "Frenwick, get your ass over here!" When nothing happens after a minute, they try again, saying, "Frenwick, I'm not interested in your fucking games at the moment! Get over here now, there's a situation!" Again, nothing happens, and Bridgette says, "I don't think he's gonna listen, he's not here anymore."
 
 Ace really begins to become frantic. They notice that the moon still has a strange red light, and attempt to dispel the magic acting upon it. Nothing happens. Bridgette worries about how the party will get home, and turns into a bat to fly around and investigate. 
 

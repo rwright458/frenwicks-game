@@ -4,7 +4,7 @@
 
 # **Bridgette**
 
-![bridgette.jpg|400](/img/user/bridgette.jpg)
+![bridgette.jpg|400](/img/user/Images/bridgette.jpg)
 
 ### **Quick Summary** 
 - Dhampir Barbarian/Rogue, Path of the Berserker
