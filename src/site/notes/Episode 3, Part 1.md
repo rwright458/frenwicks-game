@@ -50,7 +50,7 @@ Eldrune's room is the next that the party finds. As Eldrune approaches the door,
 
 Last but not least, the party comes upon Fiorella's room. Fiorella smells something almost volcanic that is reminiscent of the fire and ash that is pervasive in her homeland of Hell. Her token is a small urn containing ash from her home realm. Fiorella decides that she cannot bear to part with it and see her last memories of her home realm destroyed. The projection of her object on the pedestal morphs into another banshee, which the party again quickly dispatches.
 
-### Party Rewards:
+### **Party Rewards:**
 - +1 hand crossbow (Eldrune)
 - 2 round [[Frenwick's Tears\|Frenwick's Tears]] (Ace)
 - 500 gold, split equally between the party
